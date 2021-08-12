@@ -1,0 +1,6 @@
+ValidateCreateNewUser.xml
+ValidateGetUserTest.xml
+ValidateUpdateUser.xml
+Negative-Test-Autorization.xml
+ValidateUpdateUser-Negative.xml
+NegativeTestSuite.xml

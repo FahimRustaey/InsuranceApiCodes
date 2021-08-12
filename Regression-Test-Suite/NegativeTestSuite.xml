@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="a7d34763-ffd2-4a2f-907a-244f0ae91e2b" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="NegativeTestSuite" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="a7d34763-ffd2-4a2f-907a-244f0ae91e2bfileName">NegativeTestSuite</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>
